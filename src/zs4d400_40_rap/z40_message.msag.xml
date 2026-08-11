@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>Z40_MESSAGE</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Meine Messageklasse</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z40_MESSAGE</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Flugnummer &amp;1 &amp;2 ist bereits vohanden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z40_MESSAGE</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Fluggesellschaft &amp;1 ist nicht vorhanden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z40_MESSAGE</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Abflug- und Zielfluhafen dürfen nicht identisch sein</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z40_MESSAGE</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Geben Sie einen positiven Betrag ein, willst wohl ???</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z40_MESSAGE</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Geben Sie eine gültige Wärung ein</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
